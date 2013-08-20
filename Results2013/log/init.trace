@@ -1,0 +1,10 @@
+0 INFO  server.CompetitionSetupService: simSession: bootData=null, config=http://130.115.151.58:8080/TournamentScheduler/faces/properties.jsp?gameId=161, jmsUrl=null, seedData=null, weatherData=null, inputQueue=-89e9nf1cckjma
+0 INFO  server.CompetitionSetupService: Reading configuration from http://130.115.151.58:8080/TournamentScheduler/faces/properties.jsp?gameId=161
+81 INFO  server.ServerPropertiesService: lazyInit
+83 INFO  server.ServerPropertiesService: loading config from jar:file:/usr/local/powertac/.m2/repository/org/powertac/server-main/1.0.1-SNAPSHOT/server-main-1.0.1-SNAPSHOT.jar!/config/server.properties
+91 INFO  server.ServerPropertiesService: loading config from jar:file:/usr/local/powertac/.m2/repository/org/powertac/genco/1.0.1-SNAPSHOT/genco-1.0.1-SNAPSHOT.jar!/config/genco.properties
+107 INFO  server.CompetitionSetupService: bootUrl=http://130.115.151.58:8080/TournamentScheduler/faces/serverInterface.jsp?action=boot&gameId=161
+108 INFO  server.CompetitionControlService: pre-authorized default broker
+108 INFO  server.CompetitionControlService: Authorized broker MLLBroker / 7eqptocgofj9j
+108 INFO  server.CompetitionControlService: Authorized broker INAOEBroker02 / -ssmi5eosn15q
+108 INFO  server.CompetitionSetupService: preGame(File) - start

@@ -1,0 +1,38 @@
+Para cada t que pertenece a T do:
+
+	// Inicializar
+	
+	u = la utilidad mínima que requiero en $ (una variable asignada por el agente) 
+	PConsumerList = la lista de todos los precios de los consumidores de todos los demás brokers ordenados de forma descendente en t
+	PProducerList = la lista de todos los precios de los productores de todos los demás brokers ordenados de forma descendente en t
+
+	MisProductores = cuenta de todos los productores suscritos a una de mis tarifas en t
+	MisConsumidoreres = cuenta de todos los consumidores suscritos a una de mis tarifas en t
+
+	// Determinar estado del mercado
+	if min(PConsumerList) > max(PProducerList + u: 
+		PRSt = "rational"
+	else:
+		PRSt = "inverted"
+
+	// Determinar estado de mi portafolio
+	if MisProductores > MisConsumidores:
+		PSt = "oversupply"
+	elseif MisProductores < MisConsumidores:
+		PSt = "shortsupply"
+	elseif MisProductores = MisConsumidores:
+		PSt = "balanced"
+
+	// Greedy
+
+	// La mitad del precio mas alto en MisProductores más el precio mas bajo en MisConsumidores
+	mt = 1/2(MisConsumidores[0]  + MisProductores[len(MisProductores)]	
+	
+	// Si el mercado es racional... utiliza la estrategia Greedy
+	if PRSt = "rational":
+		PrecioConsumidor_t+1 = MisConsumidores[0]
+		PrecioProductor_t+1 = MisProductores[len(MisProductores)]
+	// De lo contrario... utiliza la estrategia inline
+	else:
+		PrecioConsumidor_t+1 = ceiling(mt + u/2)
+		PrecioProductor_t+1 = floor(mt - u/2)	 

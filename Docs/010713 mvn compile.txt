@@ -1,0 +1,300 @@
+ac/common/1.0.1-SNAPSHOT/maven-metadata.xml
+Downloading: http://repository.springsource.com/maven/bundles/external/org/power
+tac/common/1.0.1-SNAPSHOT/maven-metadata.xml
+Downloading: http://repository.springsource.com/maven/bundles/milestone/org/powe
+rtac/common/1.0.1-SNAPSHOT/maven-metadata.xml
+Downloading: http://repository.primefaces.org/org/powertac/common/1.0.1-SNAPSHOT
+/maven-metadata.xml
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/apache/
+activemq/activemq-core/5.5.1/activemq-core-5.5.1.jar
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/jasypt/
+jasypt/1.7/jasypt-1.7.jar
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/springf
+ramework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/springf
+ramework/spring-web/3.1.0.RELEASE/spring-web-3.1.0.RELEASE.jar
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/springf
+ramework/webflow/spring-faces/2.3.0.RELEASE/spring-faces-2.3.0.RELEASE.jar
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/springf
+ramework/webflow/spring-js-resources/2.3.0.RELEASE/spring-js-resources-2.3.0.REL
+EASE.jar
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/springf
+ramework/security/spring-security-core/3.0.3.RELEASE/spring-security-core-3.0.3.
+RELEASE.jar
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/springf
+ramework/security/spring-security-config/3.0.3.RELEASE/spring-security-config-3.
+0.3.RELEASE.jar
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/com/sun/fac
+es/jsf-api/2.0.3/jsf-api-2.0.3.jar
+Downloading: http://repository.springsource.com/maven/bundles/release/org/apache
+/activemq/activemq-core/5.5.1/activemq-core-5.5.1.jar
+Downloading: http://repository.springsource.com/maven/bundles/release/org/jasypt
+/jasypt/1.7/jasypt-1.7.jar
+Downloading: http://repository.springsource.com/maven/bundles/release/org/spring
+framework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/release/org/spring
+framework/spring-web/3.1.0.RELEASE/spring-web-3.1.0.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/release/org/spring
+framework/webflow/spring-faces/2.3.0.RELEASE/spring-faces-2.3.0.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/release/org/spring
+framework/webflow/spring-js-resources/2.3.0.RELEASE/spring-js-resources-2.3.0.RE
+LEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/release/org/spring
+framework/security/spring-security-core/3.0.3.RELEASE/spring-security-core-3.0.3
+.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/release/org/spring
+framework/security/spring-security-config/3.0.3.RELEASE/spring-security-config-3
+.0.3.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/release/com/sun/fa
+ces/jsf-api/2.0.3/jsf-api-2.0.3.jar
+Downloading: http://repository.springsource.com/maven/bundles/external/org/apach
+e/activemq/activemq-core/5.5.1/activemq-core-5.5.1.jar
+Downloading: http://repository.springsource.com/maven/bundles/external/org/jasyp
+t/jasypt/1.7/jasypt-1.7.jar
+Downloading: http://repository.springsource.com/maven/bundles/external/org/sprin
+gframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/external/org/sprin
+gframework/spring-web/3.1.0.RELEASE/spring-web-3.1.0.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/external/org/sprin
+gframework/webflow/spring-faces/2.3.0.RELEASE/spring-faces-2.3.0.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/external/org/sprin
+gframework/webflow/spring-js-resources/2.3.0.RELEASE/spring-js-resources-2.3.0.R
+ELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/external/org/sprin
+gframework/security/spring-security-core/3.0.3.RELEASE/spring-security-core-3.0.
+3.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/external/org/sprin
+gframework/security/spring-security-config/3.0.3.RELEASE/spring-security-config-
+3.0.3.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/external/com/sun/f
+aces/jsf-api/2.0.3/jsf-api-2.0.3.jar
+Downloading: http://repository.springsource.com/maven/bundles/milestone/org/apac
+he/activemq/activemq-core/5.5.1/activemq-core-5.5.1.jar
+Downloading: http://repository.springsource.com/maven/bundles/milestone/org/jasy
+pt/jasypt/1.7/jasypt-1.7.jar
+Downloading: http://repository.springsource.com/maven/bundles/milestone/org/spri
+ngframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/milestone/org/spri
+ngframework/spring-web/3.1.0.RELEASE/spring-web-3.1.0.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/milestone/org/spri
+ngframework/webflow/spring-faces/2.3.0.RELEASE/spring-faces-2.3.0.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/milestone/org/spri
+ngframework/webflow/spring-js-resources/2.3.0.RELEASE/spring-js-resources-2.3.0.
+RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/milestone/org/spri
+ngframework/security/spring-security-core/3.0.3.RELEASE/spring-security-core-3.0
+.3.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/milestone/org/spri
+ngframework/security/spring-security-config/3.0.3.RELEASE/spring-security-config
+-3.0.3.RELEASE.jar
+Downloading: http://repository.springsource.com/maven/bundles/milestone/com/sun/
+faces/jsf-api/2.0.3/jsf-api-2.0.3.jar
+Downloading: https://repository.jboss.org/nexus/content/repositories/releases/or
+g/apache/activemq/activemq-core/5.5.1/activemq-core-5.5.1.jar
+Downloading: https://repository.jboss.org/nexus/content/repositories/releases/or
+g/springframework/spring-web/3.1.0.RELEASE/spring-web-3.1.0.RELEASE.jar
+Downloading: https://repository.jboss.org/nexus/content/repositories/releases/or
+g/jasypt/jasypt/1.7/jasypt-1.7.jar
+Downloading: https://repository.jboss.org/nexus/content/repositories/releases/or
+g/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
+Downloading: https://repository.jboss.org/nexus/content/repositories/releases/or
+g/springframework/webflow/spring-faces/2.3.0.RELEASE/spring-faces-2.3.0.RELEASE.
+jar
+Downloading: https://repository.jboss.org/nexus/content/repositories/releases/or
+g/springframework/webflow/spring-js-resources/2.3.0.RELEASE/spring-js-resources-
+2.3.0.RELEASE.jar
+Downloading: https://repository.jboss.org/nexus/content/repositories/releases/or
+g/springframework/security/spring-security-core/3.0.3.RELEASE/spring-security-co
+re-3.0.3.RELEASE.jar
+Downloading: https://repository.jboss.org/nexus/content/repositories/releases/or
+g/springframework/security/spring-security-config/3.0.3.RELEASE/spring-security-
+config-3.0.3.RELEASE.jar
+Downloading: https://repository.jboss.org/nexus/content/repositories/releases/co
+m/sun/faces/jsf-api/2.0.3/jsf-api-2.0.3.jar
+Downloading: http://download.java.net/maven/2/org/apache/activemq/activemq-core/
+5.5.1/activemq-core-5.5.1.jar
+Downloading: http://download.java.net/maven/2/org/jasypt/jasypt/1.7/jasypt-1.7.j
+ar
+Downloading: http://download.java.net/maven/2/org/springframework/spring-webmvc/
+3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
+Downloading: http://download.java.net/maven/2/org/springframework/spring-web/3.1
+.0.RELEASE/spring-web-3.1.0.RELEASE.jar
+Downloading: http://download.java.net/maven/2/org/springframework/webflow/spring
+-faces/2.3.0.RELEASE/spring-faces-2.3.0.RELEASE.jar
+Downloading: http://download.java.net/maven/2/org/springframework/webflow/spring
+-js-resources/2.3.0.RELEASE/spring-js-resources-2.3.0.RELEASE.jar
+Downloading: http://download.java.net/maven/2/org/springframework/security/sprin
+g-security-core/3.0.3.RELEASE/spring-security-core-3.0.3.RELEASE.jar
+Downloading: http://download.java.net/maven/2/org/springframework/security/sprin
+g-security-config/3.0.3.RELEASE/spring-security-config-3.0.3.RELEASE.jar
+Downloading: http://download.java.net/maven/2/com/sun/faces/jsf-api/2.0.3/jsf-ap
+i-2.0.3.jar
+Downloaded: http://download.java.net/maven/2/com/sun/faces/jsf-api/2.0.3/jsf-api
+-2.0.3.jar (590 KB at 123.6 KB/sec)
+Downloading: http://repository.primefaces.org/org/springframework/spring-webmvc/
+3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
+Downloading: http://repository.primefaces.org/org/apache/activemq/activemq-core/
+5.5.1/activemq-core-5.5.1.jar
+Downloading: http://repository.primefaces.org/org/springframework/spring-web/3.1
+.0.RELEASE/spring-web-3.1.0.RELEASE.jar
+Downloading: http://repository.primefaces.org/org/jasypt/jasypt/1.7/jasypt-1.7.j
+ar
+Downloading: http://repository.primefaces.org/org/springframework/webflow/spring
+-faces/2.3.0.RELEASE/spring-faces-2.3.0.RELEASE.jar
+Downloading: http://repository.primefaces.org/org/springframework/webflow/spring
+-js-resources/2.3.0.RELEASE/spring-js-resources-2.3.0.RELEASE.jar
+Downloading: http://repository.primefaces.org/org/springframework/security/sprin
+g-security-core/3.0.3.RELEASE/spring-security-core-3.0.3.RELEASE.jar
+Downloading: http://repository.primefaces.org/org/springframework/security/sprin
+g-security-config/3.0.3.RELEASE/spring-security-config-3.0.3.RELEASE.jar
+Downloading: http://repo.maven.apache.org/maven2/org/apache/activemq/activemq-co
+re/5.5.1/activemq-core-5.5.1.jar
+Downloading: http://repo.maven.apache.org/maven2/org/jasypt/jasypt/1.7/jasypt-1.
+7.jar
+Downloading: http://repo.maven.apache.org/maven2/org/springframework/spring-webm
+vc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
+Downloading: http://repo.maven.apache.org/maven2/org/springframework/spring-web/
+3.1.0.RELEASE/spring-web-3.1.0.RELEASE.jar
+Downloading: http://repo.maven.apache.org/maven2/org/springframework/webflow/spr
+ing-faces/2.3.0.RELEASE/spring-faces-2.3.0.RELEASE.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/jasypt/jasypt/1.7/jasypt-1.7
+.jar (169 KB at 59.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/springframework/webflow/spr
+ing-js-resources/2.3.0.RELEASE/spring-js-resources-2.3.0.RELEASE.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/springframework/webflow/spri
+ng-faces/2.3.0.RELEASE/spring-faces-2.3.0.RELEASE.jar (191 KB at 27.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/springframework/security/sp
+ring-security-core/3.0.3.RELEASE/spring-security-core-3.0.3.RELEASE.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/springframework/spring-web/3
+.1.0.RELEASE/spring-web-3.1.0.RELEASE.jar (529 KB at 67.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/springframework/security/sp
+ring-security-config/3.0.3.RELEASE/spring-security-config-3.0.3.RELEASE.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/springframework/spring-webmv
+c/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar (559 KB at 48.9 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/springframework/security/spr
+ing-security-config/3.0.3.RELEASE/spring-security-config-3.0.3.RELEASE.jar (168
+KB at 36.4 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/springframework/security/spr
+ing-security-core/3.0.3.RELEASE/spring-security-core-3.0.3.RELEASE.jar (302 KB a
+t 41.1 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/activemq/activemq-cor
+e/5.5.1/activemq-core-5.5.1.jar (3466 KB at 83.2 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/springframework/webflow/spri
+ng-js-resources/2.3.0.RELEASE/spring-js-resources-2.3.0.RELEASE.jar (4354 KB at
+91.7 KB/sec)
+[INFO]
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ webapp-dependenci
+es ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Power TAC visualizer 1.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visualizer ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ visualizer
+ ---
+[debug] execute contextualize
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 4 resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ visualizer --
+-
+[INFO] Compiling 107 source files to D:\powertac-server\visualizer\target\classe
+s
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Power TAC server modules 1.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/powerta
+c/common/1.0.0-SNAPSHOT/maven-metadata.xml
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/powerta
+c/common/1.0.0-SNAPSHOT/maven-metadata.xml
+[INFO]
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ powertac-server -
+--
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO]
+[INFO] Power TAC server interface ........................ SUCCESS [1:15.140s]
+[INFO] Power TAC accounting service ...................... SUCCESS [0.844s]
+[INFO] Power TAC wholesale market ........................ SUCCESS [0.078s]
+[INFO] Power TAC default broker .......................... SUCCESS [0.110s]
+[INFO] Power TAC distribution utility .................... SUCCESS [0.140s]
+[INFO] Power TAC factored customer ....................... SUCCESS [0.594s]
+[INFO] Power TAC genco ................................... SUCCESS [1.562s]
+[INFO] Power TAC household customer ...................... SUCCESS [0.235s]
+[INFO] Power TAC office complex customer ................. SUCCESS [0.250s]
+[INFO] Power TAC server main ............................. SUCCESS [4.109s]
+[INFO] Power TAC WebApp Dependencies ..................... SUCCESS [1:04.266s]
+[INFO] Power TAC visualizer .............................. SUCCESS [11.344s]
+[INFO] Power TAC server modules .......................... SUCCESS [1.000s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2:40.250s
+[INFO] Finished at: Mon Jul 01 12:55:44 CDT 2013
+[INFO] Final Memory: 19M/47M
+[INFO] ------------------------------------------------------------------------
+D:\powertac-server>mvn -Pcli -Dexec.args="--boot bootstrap.txt"
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO]
+[INFO] Power TAC server interface
+[INFO] Power TAC accounting service
+[INFO] Power TAC wholesale market
+[INFO] Power TAC default broker
+[INFO] Power TAC distribution utility
+[INFO] Power TAC factored customer
+[INFO] Power TAC genco
+[INFO] Power TAC household customer
+[INFO] Power TAC office complex customer
+[INFO] Power TAC server main
+[INFO] Power TAC WebApp Dependencies
+[INFO] Power TAC visualizer
+[INFO] Power TAC server modules
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO]
+[INFO] Power TAC server interface ........................ SKIPPED
+[INFO] Power TAC accounting service ...................... SKIPPED
+[INFO] Power TAC wholesale market ........................ SKIPPED
+[INFO] Power TAC default broker .......................... SKIPPED
+[INFO] Power TAC distribution utility .................... SKIPPED
+[INFO] Power TAC factored customer ....................... SKIPPED
+[INFO] Power TAC genco ................................... SKIPPED
+[INFO] Power TAC household customer ...................... SKIPPED
+[INFO] Power TAC office complex customer ................. SKIPPED
+[INFO] Power TAC server main ............................. SKIPPED
+[INFO] Power TAC WebApp Dependencies ..................... SKIPPED
+[INFO] Power TAC visualizer .............................. SKIPPED
+[INFO] Power TAC server modules .......................... SKIPPED
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 0.547s
+[INFO] Finished at: Mon Jul 01 12:56:37 CDT 2013
+[INFO] Final Memory: 3M/13M
+[INFO] ------------------------------------------------------------------------
+[WARNING] The requested profile "cli" could not be activated because it does not
+ exist.
+[ERROR] No goals have been specified for this build. You must specify a valid li
+fecycle phase or a goal in the format <plugin-prefix>:<goal> or <plugin-group-id
+>:<plugin-artifact-id>[:<plugin-version>]:<goal>. Available lifecycle phases are
+: validate, initialize, generate-sources, process-sources, generate-resources, p
+rocess-resources, compile, process-classes, generate-test-sources, process-test-
+sources, generate-test-resources, process-test-resources, test-compile, process-
+test-classes, test, prepare-package, package, pre-integration-test, integration-
+test, post-integration-test, verify, install, deploy, pre-site, site, post-site,
+ site-deploy, pre-clean, clean, post-clean. -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e swit
+ch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please rea
+d the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/NoGoalSpecifie
+dException
+D:\powertac-server>mvn -Pcli -Dexec.args="--boot bootstrap.txt"
